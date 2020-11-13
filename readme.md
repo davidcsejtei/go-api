@@ -14,7 +14,7 @@ go run .
 
 ## Example request and response
 ```
-GET http://localhost:8081/users/all
+GET http://localhost:8000/users/all
 ---
 
 Response:
